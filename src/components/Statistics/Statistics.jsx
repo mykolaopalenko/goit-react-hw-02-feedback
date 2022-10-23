@@ -15,7 +15,7 @@ export default function Statistics({
       <StatisticValuesItem>😒 Bad: {bad} </StatisticValuesItem>
       <StatisticValuesItem>😎 Total: {total}</StatisticValuesItem>
       <StatisticValuesItem>
-        👍 Positive feetback: {positivePercentage}%
+        👍 Positive feedback: {positivePercentage}%
       </StatisticValuesItem>
     </ul>
   );
