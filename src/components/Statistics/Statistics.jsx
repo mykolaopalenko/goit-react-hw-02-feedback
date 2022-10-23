@@ -10,8 +10,8 @@ export default function Statistics({
 }) {
   return (
     <ul>
-      <StatisticValuesItem>😁 Good: {good} ,</StatisticValuesItem>
-      <StatisticValuesItem>🙄 Neutral: {neutral} ,</StatisticValuesItem>
+      <StatisticValuesItem>😁 Good: {good}</StatisticValuesItem>
+      <StatisticValuesItem>🙄 Neutral: {neutral}</StatisticValuesItem>
       <StatisticValuesItem>😒 Bad: {bad} </StatisticValuesItem>
       <StatisticValuesItem>😎 Total: {total}</StatisticValuesItem>
       <StatisticValuesItem>
